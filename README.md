@@ -1,0 +1,2 @@
+# vmashiro_word
+fundtation
